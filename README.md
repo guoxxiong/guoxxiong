@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I'm currently studying the technology related to robots, mainly including Motion Planning, Intelligent Control, Human-Robot Collaboration, VSLAM...
+🔭 I’m currently working on Robotics.
+🌱 I'm willing to learn from anyone.
