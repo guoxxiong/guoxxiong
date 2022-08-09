@@ -1,4 +1,4 @@
-### Hi there 👋, this Guo Xiong.
+### Hi there 👋, this is Guo Xiong.
 
 <!--
 **guoxxiong/guoxxiong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
