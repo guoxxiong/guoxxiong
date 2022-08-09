@@ -1,5 +1,5 @@
 ### Hi 👋, this is Guo Xiong.
-#### A postgraduate from [USTB](https://www.ustb.edu.cn)
+A postgraduate from [USTB](https://www.ustb.edu.cn)
 
 <!--
 **guoxxiong/guoxxiong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
