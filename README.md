@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+this+is+Guo+Xiong.+;Welcome!)](https://git.io/typing-svg)
-### Hi 👋, this is Guo Xiong, [ORCID](https://orcid.org/0000-0002-3604-4895).
+### [ORCID](https://orcid.org/0000-0002-3604-4895).
 A master student from [SAEE](http://saee.ustb.edu.cn), [USTB](https://www.ustb.edu.cn).
 
 <!--
