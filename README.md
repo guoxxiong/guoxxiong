@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,pytorch,qt,vscode,visualstudio,androidstudio,blender,autocad,ps&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,github,pytorch,tensorflow,pycharm,qt,vscode,visualstudio,androidstudio,blender,autocad,ps&theme=light" />
   </a>
 </p>
 
