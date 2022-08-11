@@ -7,9 +7,7 @@
  </div>
  
 ### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; My [ORCID](https://orcid.org/0000-0002-3604-4895). A master student from [SAEE](http://saee.ustb.edu.cn), [USTB](https://www.ustb.edu.cn).
-<br>
-<img align='left' height='160' style="margin-left:20px" src='assets/programmer.gif' alt='Skills'>
-<br>
+
 <h2>Skills</h2>
 
 <p align="center">
