@@ -29,16 +29,23 @@ Here are some ideas to get you started:
 <br>
 <h2>Skills</h2>
 
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,androidstudio,arduino,bash,linux,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,cmake,linux,powershell,vim,ros,latex,md,pytorch,arduino,raspberrypi&theme=dark" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,c,cpp,java,github,ps,pr,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,blender,autocad,ps&theme=light" />
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,github,ps&theme=dark" />
+  </a>
+</p>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
