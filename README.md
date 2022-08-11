@@ -32,17 +32,12 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,cmake,linux,powershell,vim,ros,latex,md,pytorch,arduino,raspberrypi&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,cmake,linux,powershell,vim,ros,latex,md,arduino,raspberrypi&theme=light" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,blender,autocad,ps&theme=light" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,github,ps&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,pytorch,qt,vscode,visualstudio,androidstudio,blender,autocad,ps&theme=light" />
   </a>
 </p>
 
