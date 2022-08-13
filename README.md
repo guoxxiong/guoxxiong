@@ -35,9 +35,9 @@
  
  
  </details>
- 
- [<center>YouTube</center>](https://www.youtube.com/channel/UCs0XpBpQNL1EifN2g_xtSIQ) 
- 
+<center>
+[YouTube](https://www.youtube.com/channel/UCs0XpBpQNL1EifN2g_xtSIQ) 
+</center>
  
 [Bilibili](https://space.bilibili.com/155970040/)
 
