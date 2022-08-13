@@ -12,8 +12,6 @@
 <a href="https://www.ustb.edu.cn">USTB</a>
 </div>
 
-### My [ORCID](https://orcid.org/0000-0002-3604-4895). A master student from [SAEE](http://saee.ustb.edu.cn), [USTB](https://www.ustb.edu.cn).
-
 <h2></h2>
 <p align="center">
   <a href="https://skillicons.dev">
