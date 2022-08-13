@@ -25,7 +25,6 @@
 
 <details close="true">
   <summary><b>:gear: &nbsp;Git statistics</b></summary>
- ![](./profile-3d-contrib/profile-night-rainbow.svg)
   <div align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=guoxxiong&show_icons=true&theme=highcontrast" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guoxxiong&hide=html&layout=compact&theme=highcontrast" />
