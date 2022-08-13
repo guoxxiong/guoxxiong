@@ -26,7 +26,7 @@
 <details close="true">
   <summary><b>:gear: &nbsp;Git statistics</b></summary>
 
- ![](./profile-3d-contrib/profile-night-rainbow.svg)
+ [](./profile-3d-contrib/profile-night-rainbow.svg)
  
   <div align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=guoxxiong&show_icons=true&theme=highcontrast" />
@@ -38,7 +38,7 @@
  
  <div align="center">
  <a href=https://www.youtube.com/channel/UCs0XpBpQNL1EifN2g_xtSIQ>YouTube</a>
- <b>    </b>
+ <b>&emsp;&emsp;</b>
  <a href=https://space.bilibili.com/155970040/>Bilibili</a>
  </div>
 
