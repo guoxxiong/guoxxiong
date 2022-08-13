@@ -6,7 +6,7 @@
  
  </div>
  
-### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; My [ORCID](https://orcid.org/0000-0002-3604-4895).[Bilibili](https://space.bilibili.com/155970040/),[YouTube](https://www.youtube.com/channel/UCs0XpBpQNL1EifN2g_xtSIQ) A master student from [SAEE](http://saee.ustb.edu.cn), [USTB](https://www.ustb.edu.cn).
+### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; My [ORCID](https://orcid.org/0000-0002-3604-4895). A master student from [SAEE](http://saee.ustb.edu.cn), [USTB](https://www.ustb.edu.cn).
 
 <h2></h2>
 <p align="center">
@@ -19,7 +19,7 @@
     <img src="https://skillicons.dev/icons?i=git,github,pytorch,tensorflow,vscode,visualstudio,qt,eclipse,androidstudio,blender,autocad,ps&theme=dark" />
   </a>
 </p>
-<h2 align="center">Skills</h2>
+[Bilibili](https://space.bilibili.com/155970040/)<h2 align="center">Skills</h2>[YouTube](https://www.youtube.com/channel/UCs0XpBpQNL1EifN2g_xtSIQ)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
