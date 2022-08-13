@@ -12,7 +12,7 @@
 <a href="http://saee.ustb.edu.cn">SAEE</a>
 <b>,</b>
 <a href="https://www.ustb.edu.cn">USTB</a>
-<d>.</d>
+<b>.</b>
 </div>
 
 <h2></h2>
