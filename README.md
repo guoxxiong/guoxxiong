@@ -33,10 +33,9 @@
   <summary><b>:gear: &nbsp;Git statistics</b></summary>
   <div align="center">
 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guoxxiong&theme=highcontrast" alt="guoxxiong" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=guoxxiong&show_icons=true&theme=highcontrast" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guoxxiong&hide=html&layout=compact&theme=highcontrast" />
-  
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=guoxxiong&show_icons=true&" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guoxxiong&hide=html&layout=compact&" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guoxxiong&" alt="guoxxiong" />
    
  </div>
  </details>
