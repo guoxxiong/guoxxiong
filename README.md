@@ -35,7 +35,7 @@
 
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=guoxxiong&show_icons=true&theme=highcontrast" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guoxxiong&hide=html&layout=compact&theme=highcontrast" />
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guoxxiong&" alt="guoxxiong" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guoxxiong&theme=highcontrast" alt="guoxxiong" /></p>
    
  </div>
  </details>
