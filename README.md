@@ -19,8 +19,8 @@
     <img src="https://skillicons.dev/icons?i=git,github,pytorch,tensorflow,vscode,visualstudio,qt,eclipse,androidstudio,blender,autocad,ps&theme=dark" />
   </a>
 </p>
-[Bilibili](https://space.bilibili.com/155970040/)<h2 align="center">Skills</h2>[YouTube](https://www.youtube.com/channel/UCs0XpBpQNL1EifN2g_xtSIQ)
-
+<h2 align="center">Skills</h2>
+### [YouTube](https://www.youtube.com/channel/UCs0XpBpQNL1EifN2g_xtSIQ)  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp  [Bilibili](https://space.bilibili.com/155970040/)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
