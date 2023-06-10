@@ -9,8 +9,6 @@
 <div align="right">
 <a href="https://orcid.org/0000-0002-3604-4895">ORCID</a>
 <b>,</b>
-<a href="http://saee.ustb.edu.cn">SAEE</a>
-<b>,</b>
 <a href="https://www.ustb.edu.cn">USTB</a>
 </div>
 
