@@ -21,7 +21,7 @@
     <img src="https://skillicons.dev/icons?i=git,github,pytorch,tensorflow,vscode,visualstudio,qt,eclipse,androidstudio,blender,autocad,ps&theme=dark" />
   </a>
 </p>
-<h2 align="center">Skills</h2>
+<h2 align="center">hhh</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=guoxxiong&label=Profile%20views&color=0e75b6&style=flat" alt="guoxxiong" /> </p> 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
